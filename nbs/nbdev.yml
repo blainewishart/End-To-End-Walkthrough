@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "End-To-End-Walkthrough"
+  site-url: "https://blainewishart.github.io/End-To-End-Walkthrough"
+  description: "reflection, more or less, of nbdev's walkthrough"
+  repo-branch: main
+  repo-url: "https://github.com/blainewishart/End-To-End-Walkthrough"
